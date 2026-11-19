@@ -1,0 +1,51 @@
+{
+  "version": 2,
+  "groups": {
+    "game-branding": {
+      "name": "Game Branding",
+      "order": 20
+    },
+    "player-character": {
+      "name": "Player Character",
+      "order": 10
+    }
+  },
+  "bundles": {},
+  "assets": {
+    "assets/models/neon-ark-agent-animated.glb": {
+      "path": "/manus-storage/game/sha256/a98701f772c41cc0a421fe611b67b7613af1a603f8d6e2b664a72fc095fc1c90.glb",
+      "sha256": "sha256:a98701f772c41cc0a421fe611b67b7613af1a603f8d6e2b664a72fc095fc1c90",
+      "size": 1580328,
+      "assetType": "model",
+      "groupId": "player-character"
+    },
+    "assets/models/neon-ark-agent-rigged.glb": {
+      "path": "/manus-storage/game/sha256/bab54a4fd1fc08ad9fa02fa97ccf98f674c2a8d698c4b3a2ba0569fba0c0c79e.glb",
+      "sha256": "sha256:bab54a4fd1fc08ad9fa02fa97ccf98f674c2a8d698c4b3a2ba0569fba0c0c79e",
+      "size": 1282704,
+      "assetType": "model",
+      "groupId": "player-character"
+    },
+    "assets/models/neon-ark-agent.glb": {
+      "path": "/manus-storage/game/sha256/a13c3a6d26727b7ee03af49ec2985d07ed9514f28631aa41f00789fc78e12b47.glb",
+      "sha256": "sha256:a13c3a6d26727b7ee03af49ec2985d07ed9514f28631aa41f00789fc78e12b47",
+      "size": 1124836,
+      "assetType": "model",
+      "groupId": "player-character"
+    },
+    "assets/share/favicon.png": {
+      "path": "/manus-storage/game/sha256/e35b6f5d3b2f42070727210ab6445683a7483601a7f6aec557939d152b79f6bc.png",
+      "sha256": "sha256:e35b6f5d3b2f42070727210ab6445683a7483601a7f6aec557939d152b79f6bc",
+      "size": 14327,
+      "assetType": "image",
+      "groupId": "game-branding"
+    },
+    "assets/share/og.png": {
+      "path": "/manus-storage/game/sha256/6c969a3d4a9db59269033233ce5648b3400b1be81e7d9b8073c3da42ecf1cdd6.png",
+      "sha256": "sha256:6c969a3d4a9db59269033233ce5648b3400b1be81e7d9b8073c3da42ecf1cdd6",
+      "size": 5408156,
+      "assetType": "image",
+      "groupId": "game-branding"
+    }
+  }
+}

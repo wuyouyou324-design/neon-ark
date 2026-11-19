@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 2,
+  "title": "Neon Ark",
+  "description": "Three missions. One last signal. Explore the energy maze, survive the meteor run, and face the Ark Guardian. / 三個任務，一道最後訊號。深入能源迷宮、突圍隕石風暴，迎戰方舟守護者。",
+  "defaultCaptions": {
+    "x": "Neon Ark — Three missions. One last signal. / 星際特工：霓虹方舟 — 三個任務，一道最後訊號。",
+    "facebook": "Play Neon Ark: explore the energy maze, break through the meteor storm, and challenge the Ark Guardian. / 一起遊玩《星際特工：霓虹方舟》：深入能源迷宮、突圍隕石風暴，迎戰方舟守護者。",
+    "reddit": "Neon Ark — a three-mission sci-fi action adventure. / 《星際特工：霓虹方舟》— 三章科幻動作冒險。",
+    "discord": "NEON ARK | Three missions. One last signal. / 星際特工：霓虹方舟｜三個任務，一道最後訊號。"
+  },
+  "assets": {
+    "og": "assets/share/og.png",
+    "favicon": "assets/share/favicon.png"
+  }
+}
