@@ -4,8 +4,8 @@ import { GLTFLoader, type GLTF } from 'three/examples/jsm/loaders/GLTFLoader.js'
 /**
  * Cached asset loading with one progress stream for the boot screen.
  *
- * Runtime models and textures use full, stable `/manus-storage/...` paths from an explicit game
- * asset table. Preload first-play dependencies in `main.ts` so boot progress includes them.
+ * Runtime media paths come from the game-specific asset table. Preload first-play dependencies in
+ * `main.ts` so boot progress includes them.
  */
 export class Assets {
   private readonly manager = new THREE.LoadingManager()

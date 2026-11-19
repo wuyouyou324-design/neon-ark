@@ -2,6 +2,12 @@
 
 **Neon Ark（星際特工：霓虹方舟）** is a browser-based Three.js sci-fi action game. Play through three missions: explore the Energy Maze, survive the Starbreak, and face the Ark Guardian. The game includes three independent save slots and upgrades for the plasma cannon, ion thrusters, and deflector shield.
 
+## Play online
+
+The GitHub Pages site is deployed from `main` by GitHub Actions:
+
+<https://wuyouyou324-design.github.io/neon-ark/>
+
 ## Run locally
 
 Requirements: Node.js and pnpm 10.18.0 (the version recorded in `package.json`).
